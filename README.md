@@ -1,7 +1,5 @@
 # mid-term-part1
 This repo is for practicing mid term exam
-<<<<<<< Updated upstream
-=======
 
 ## Jenifer Quelali & Nathalia Lima
 
@@ -60,6 +58,7 @@ Another thing, we love to cook for our guests.
 1. Lasagna
 2. Brigadeiro (Brazilian Sweet)
 
+
 ![Favourite Food - Nathalia](images/food-nathalia.jpeg)
 
 ___
@@ -87,4 +86,4 @@ Nathalia Lima
 
 ## License
 MIT
->>>>>>> Stashed changes
+
